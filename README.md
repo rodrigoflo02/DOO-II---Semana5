@@ -11,7 +11,7 @@ Estructura general del proyecto
 El proyecto esta estructurado en 3 paquetes: Model que contiene la clase Repartidor implementando la interfaz Runnable, la clase Pedido y ZonaDeCarga; el paquete States que contiene la clase enum Estado; y el paquete app que contiene la clase Main
 
 Instrucciones
-1- Clone el repositorio desde Github https://github.com/rodrigoflo02/DOO-II---Semana-4.git
+1- Clone el repositorio desde Github https://github.com/rodrigoflo02/DOO-II---Semana5.git
 2- Abrir el proyecto con Intellij Idea 
 3- En menu, abrir el proyecto seleccionando la carpeta de este 
 4- Si desea modificar el codigo debe editar la informacion base de las instancias ubicadas en la clase Main (ejemplo, direcciones en instancias de Pedido como Pedido[] pedidos = {
